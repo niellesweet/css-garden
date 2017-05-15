@@ -1,1 +1,108 @@
 /* Agrega aquí tus estilos*/
+*{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+body{
+	margin: 0;
+	background-image: url(../img/yellow-wallpaper-18.jpg);
+	background-size: cover;
+	margin: 25px;
+}
+
+h1, h2, h3{
+	font-family: 'BioRhyme', serif;
+	font-weight: 700;
+	margin:0;
+}
+
+header h1{
+	font-size: 50px;
+	color: #581845;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 0;
+}
+header h2{
+	font-size: 40px;
+	color: #581845;
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+#zen-summary p{
+	font-size: 24px;
+	color: #BE1B5E;
+	text-align: center;
+	margin: 10px;
+}
+
+#zen-preamble h3{
+	font-size: 30px;
+	color: #900C3F;
+	margin-top: 30px;
+}
+
+#zen-preamble p{
+	font-size: 20px;
+	color: #BE1B5E;
+	margin-top: 10px;
+	text-align: justify;
+	line-height: 85%;
+}
+
+#zen-supporting h3{
+	font-size: 30px;
+	color: #900C3F;
+	margin-top: 30px;
+}
+
+#zen-supporting p{
+	font-size: 20px;
+	color: #BE1B5E;
+	margin-top: 10px;
+	text-align: justify;
+	line-height: 85%;
+}
+
+#design-selection h3{
+	font-size: 18px;
+	color: #DB3022;
+	margin-top: 50px;
+}
+
+#design-selection li{
+	font-size: 14px;
+	color: #FE5B4E;
+	margin-top: 10px;
+	text-align: justify;
+	line-height: 75%;
+}
+
+#design-archives h3{
+	font-size: 18px;
+	color: #DB3022;
+	margin-top: 20px;
+}
+
+#design-archives li{
+	font-size: 14px;
+	color: #FE5B4E;
+	margin-top: 10px;
+	text-align: justify;
+	line-height: 75%;
+}
+
+#zen-resources h3{
+	font-size: 18px;
+	color: #DB3022;
+	margin-top: 20px;
+}
+
+#zen-resources li{
+	font-size: 14px;
+	color: #FE5B4E;
+	margin-top: 10px;
+	text-align: justify;
+	line-height: 75%;
+}
